@@ -20,3 +20,5 @@ Looking at the sum of the fares by city type over time, we can see that the tota
 - The highest sum for suburban and urban cities was at the end of February 2019.
 - Suburban fares seemed to increase through January but then taper off until the last week in February.
 - Urban fares increased through the end of February and then became intermittent through March.
+
+While the total fares is much lower in rural cities, the stability shown in the line plot and the average fare per ride and per driver shows that having drivers in rural cities is profitable. The total fares in urban cities make up for the lower averages per ride and per driver.
