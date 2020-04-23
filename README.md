@@ -10,9 +10,13 @@ V. Isualize from PyBer has asked to create an overall snapshot of the ride-shari
 
 ## Summary of Results
 ### Summary DataFrame
+![Summary dataframe](analysis/Summary_df.png)
+
 Looking at city type, the total rides, total drivers and total fares is greatest in urban cities and least in rural cities.  However, the average fare per ride is greatest in rural cities at $34.62, with suburban cities at $30.97, but for urban cities is only $24.53. Also, because the number of drivers is so large in urban cities, the average fare per driver is much lower ($16.57) than in rural cities ($55.49).
 
 ### Multi-Line Plot
+![Multi line plot](analysis/Fig8.png)
+
 Looking at the sum of the fares by city type over time, we can see that the total fares in urban cities is much greater than in either suburban or rural cities.
 - The line plot for urban cities often shows an average fare more than four times that of the rural cities, sometimes five times greater.
 - Both the suburban and rural cities saw a peak in total fares at the end of February.
